@@ -1,0 +1,19 @@
+
+.Nav1{
+    background-image: url('https://image.freepik.com/vector-gratis/fondo-pantalla-futurista-abstracto_23-2148398113.jpg');
+    background-repeat:no-repeat;
+    background-size: 100%;
+    color:white;
+    text-align: center;
+    margin-bottom: auto;
+    padding: 2;
+
+}
+.footer{
+    position: fixed;
+    left: 0%;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    
+}
